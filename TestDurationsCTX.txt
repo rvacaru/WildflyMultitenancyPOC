@@ -1,0 +1,109 @@
+START LOAD TESTS SUITE---------------------------------------------2015-05-25T12:16:10.163
+
+Start of Test_1 2015-05-25T12:16:10.163
+Duration of PERSIST T_1:   [ 0 minutes, 4 secs, 4415 millis ]
+Duration of MERGE T_1:     [ 0 minutes, 0 secs, 690 millis ]
+Duration of SEL_DEL T_1:   [ 0 minutes, 0 secs, 801 millis ]
+Duration of TOTAL T_1:     [ 0 minutes, 6 secs, 6266 millis ]
+End of Test_1, Scale: 5, 2015-05-25T12:16:16.439  
+
+END   LOAD TESTS SUITE---------------------------------------------2015-05-25T12:16:16.439
+
+START LOAD TESTS SUITE---------------------------------------------2015-05-25T12:25:56.006
+
+Start of Test_1 2015-05-25T12:25:56.006
+Duration of PERSIST T_1:   [ 0 minutes, 3 secs, 3270 millis ]
+Duration of MERGE T_1:     [ 0 minutes, 0 secs, 670 millis ]
+Duration of SEL_DEL T_1:   [ 0 minutes, 0 secs, 0 millis ]
+Duration of TOTAL T_1:     [ 0 minutes, 3 secs, 3990 millis ]
+End of Test_1, Scale: 5, 2015-05-25T12:26:00.006  
+
+END   LOAD TESTS SUITE---------------------------------------------2015-05-25T12:26:00.006
+
+START LOAD TESTS SUITE---------------------------------------------2015-05-25T14:57:47.527
+
+Start of Test_1 2015-05-25T14:57:47.528
+Duration of PERSIST T_1:   [ 0 minutes, 5 secs, 5065 millis ]
+Duration of MERGE T_1:     [ 0 minutes, 0 secs, 675 millis ]
+Duration of SEL_DEL T_1:   [ 0 minutes, 0 secs, 671 millis ]
+Duration of TOTAL T_1:     [ 0 minutes, 6 secs, 6411 millis ]
+End of Test_1, Scale: 5, 2015-05-25T14:57:53.942  
+
+END   LOAD TESTS SUITE---------------------------------------------2015-05-25T14:57:53.943
+
+START LOAD TESTS SUITE---------------------------------------------2015-05-25T14:59:45.104
+
+Start of Test_1 2015-05-25T14:59:45.105
+Duration of PERSIST T_1:   [ 0 minutes, 6 secs, 6102 millis ]
+Duration of MERGE T_1:     [ 0 minutes, 0 secs, 610 millis ]
+Duration of SEL_DEL T_1:   [ 0 minutes, 0 secs, 801 millis ]
+Duration of TOTAL T_1:     [ 0 minutes, 7 secs, 7513 millis ]
+End of Test_1, Scale: 5, 2015-05-25T14:59:52.620  
+
+END   LOAD TESTS SUITE---------------------------------------------2015-05-25T14:59:52.621
+
+START LOAD TESTS SUITE---------------------------------------------2015-05-25T15:00:15.338
+
+Start of Test_1 2015-05-25T15:00:15.339
+Duration of PERSIST T_1:   [ 0 minutes, 4 secs, 4693 millis ]
+Duration of MERGE T_1:     [ 0 minutes, 1 secs, 1073 millis ]
+Duration of SEL_DEL T_1:   [ 0 minutes, 0 secs, 602 millis ]
+Duration of TOTAL T_1:     [ 0 minutes, 6 secs, 6368 millis ]
+End of Test_1, Scale: 5, 2015-05-25T15:00:21.710  
+
+END   LOAD TESTS SUITE---------------------------------------------2015-05-25T15:00:21.710
+
+START LOAD TESTS SUITE---------------------------------------------2015-05-25T15:02:23.204
+
+Start of Test_1 2015-05-25T15:02:23.205
+Duration of PERSIST T_1:   [ 0 minutes, 5 secs, 5145 millis ]
+Duration of MERGE T_1:     [ 0 minutes, 0 secs, 584 millis ]
+Duration of SEL_DEL T_1:   [ 0 minutes, 0 secs, 550 millis ]
+Duration of TOTAL T_1:     [ 0 minutes, 6 secs, 6279 millis ]
+End of Test_1, Scale: 5, 2015-05-25T15:02:29.993  
+
+END   LOAD TESTS SUITE---------------------------------------------2015-05-25T15:02:29.994
+START LOAD TESTS SUITE---------------------------------------------2015-06-04T12:53:23.428
+
+Start of Test_1 2015-06-04T12:53:23.434
+Duration of PERSIST T_1:   [ 0 minutes, 2 secs, 2790 millis ]
+Duration of MERGE T_1:     [ 0 minutes, 0 secs, 447 millis ]
+Duration of SEL_DEL T_1:   [ 0 minutes, 0 secs, 0 millis ]
+Duration of TOTAL T_1:     [ 0 minutes, 3 secs, 3237 millis ]
+End of Test_1, Scale: 5, 2015-06-04T12:53:27.854  
+
+END   LOAD TESTS SUITE---------------------------------------------2015-06-04T12:53:27.854
+
+START LOAD TESTS SUITE---------------------------------------------2015-06-04T14:21:46.636
+
+Start of Test_1 2015-06-04T14:21:46.637
+Duration of PERSIST T_1:   [ 0 minutes, 2 secs, 2184 millis ]
+Duration of MERGE T_1:     [ 0 minutes, 0 secs, 416 millis ]
+Duration of SEL_DEL T_1:   [ 0 minutes, 0 secs, 558 millis ]
+Duration of TOTAL T_1:     [ 0 minutes, 3 secs, 3159 millis ]
+End of Test_1, Scale: 5, 2015-06-04T14:21:50.042  
+
+END   LOAD TESTS SUITE---------------------------------------------2015-06-04T14:21:50.043
+
+START LOAD TESTS SUITE---------------------------------------------2015-06-04T14:36:07.887
+
+Start of Test_1 2015-06-04T14:36:07.888
+Duration of PERSIST T_1:   [ 0 minutes, 2 secs, 2483 millis ]
+Duration of MERGE T_1:     [ 0 minutes, 0 secs, 493 millis ]
+Duration of SEL_DEL T_1:   [ 0 minutes, 0 secs, 483 millis ]
+Duration of TOTAL T_1:     [ 0 minutes, 3 secs, 3460 millis ]
+End of Test_1, Scale: 5, 2015-06-04T14:36:11.374  
+
+END   LOAD TESTS SUITE---------------------------------------------2015-06-04T14:36:11.375
+
+START LOAD TESTS SUITE---------------------------------------------2015-07-06T17:55:18.698
+
+Start of Test_1 2015-07-06T17:55:18.720
+Duration of PERSIST T_1:   [ 0 minutes, 3 secs, 3536 millis ]
+Duration of MERGE T_1:     [ 0 minutes, 0 secs, 710 millis ]
+Duration of SEL_DEL T_1:   [ 0 minutes, 1 secs, 1117 millis ]
+Duration of TOTAL T_1:     [ 0 minutes, 5 secs, 5363 millis ]
+End of Test_1, Scale: 5, 2015-07-06T17:55:24.087  
+
+END   LOAD TESTS SUITE---------------------------------------------2015-07-06T17:55:24.088
+
